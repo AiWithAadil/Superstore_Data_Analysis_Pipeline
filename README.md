@@ -1,7 +1,7 @@
 # Glue-Athena-QuickSight Data Analytics Pipeline
 
 ## Project Diagram
-![Project Workflow](superStore/StoreAnalysisStructure.PNG)
+![Project Workflow](/superStore/StoreAnalysisStructure.PNG)
 
 ## Project Overview
 This project demonstrates a complete data analytics pipeline leveraging AWS services to process, query, and visualize data. The pipeline integrates Python, AWS S3, AWS Glue, AWS Athena, and AWS QuickSight to build a seamless workflow for extracting insights from raw data.
